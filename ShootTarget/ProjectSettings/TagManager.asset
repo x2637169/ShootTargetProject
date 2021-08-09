@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FxTemporaire
+  - Canvas
+  - Manager
+  - MedKit
+  - Floor
+  - AmmoKit
+  - Enemy
+  - Position2
+  - Position1
+  - Enemy_J
+  - UI
+  - SlowMotionManager
+  - GunKit
+  - EnemyShootArea
+  - GunLaser
+  - PistolAmmo
+  - SmgAmmo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - cube
+  - GunLaser
+  - 
+  - 
+  - Enemy
+  - Building
+  - Wall
+  - Ammo_Kit
+  - Med_Kit
+  - TopFloor
+  - RespawnPoint
+  - CoverPoint
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
